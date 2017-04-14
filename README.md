@@ -1,9 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Coding challenge to create bowling score application
+Coding challenge to create bowling score application.
+
+DEMO: https://d23ywqum8sw8gu.cloudfront.net/
 
 ## Requirements
 Build a simple web page that allows me to keep score of up to 5 players bowling. The page should allow for up to 5 players, and 10 frames per player. In each frame you should have 2 fields allowing me to input 0-9, /, or X. There should also be a running total at the end of each row. He should be sure to pay attention to input validation. For the rules of bowling scoring see: http://slocums.homestead.com/gamescore.html. Attached is a picture of a typical bowling score sheet.
+
+![alt tag](https://github.com/lyralux/react-bowling-score/blob/master/example_score_sheet.png?raw=true)
 
 ## Download
 
